@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/logo.png" alt="100 Days of AI & ML Logo" width="140" />
+
 
 # 100 Days of AI & ML
 
